@@ -22,5 +22,5 @@ I enjoy bowling and archery **(neither of which I am particularly good at)**. I 
 
 *Aarif Baksh*
 
-
+![ProPic](ProPic.jpg)
 
