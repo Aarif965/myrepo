@@ -17,5 +17,6 @@ I am **Aarif Baksh** and I am currently a **1st year PhD student in Statistics**
 ## Hobbies and Interests
 I enjoy bowling and archery **(neither of which I am particularly good at)**. I also love animals and visiting the zoo. I’ve had two pet cockatiels, **Crissy** and **Archie**, for about nine years. 
 
-![The Great Barrier Reef](https://th.bing.com/th/id/OIP.tHJpmFqas-vyogsPGQ2AcAHaEe?rs=1&pid=ImgDetMain)
-*The Great Barrier Reef*
+<img src="C:/Users/aarif/Documents/Aarif Repo/ProPic.jpg" width="150" height="150" alt="Aarif Baksh">
+
+*Aarif Baksh*
