@@ -17,10 +17,9 @@ I am **Aarif Baksh** and I am currently a **1st year PhD student in Statistics**
 ## Hobbies and Interests
 I enjoy bowling and archery **(neither of which I am particularly good at)**. I also love animals and visiting the zoo. I’ve had two pet cockatiels, **Crissy** and **Archie**, for about nine years. 
 
-
-<img src="ProPic.jpg" width="150" height="150" alt="Aarif Baksh">
+![ProfilePic](ProfilePic.jpg)
 
 *Aarif Baksh*
 
-![ProPic](ProPic.jpg)
+
 
