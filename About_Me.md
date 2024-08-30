@@ -20,3 +20,8 @@ I enjoy bowling and archery **(neither of which I am particularly good at)**. I 
 <img src="C:/Users/aarif/Documents/Aarif Repo/ProPic.jpg" width="150" height="150" alt="Aarif Baksh">
 
 *Aarif Baksh*
+
+
+![ProPic](C:/Users/aarif/Documents/Aarif Repo/ProPic.jpg)
+
+
